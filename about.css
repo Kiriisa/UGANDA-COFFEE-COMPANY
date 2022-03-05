@@ -16,7 +16,7 @@
         }
         .layer li {
         padding-right: 20px;
-        font-size: 60px;
+        font-size: 30px;
         
         }
         .layer a{
@@ -25,7 +25,7 @@
         }
         .layer a:hover{
             color: yellow;
-            font-size:70px ;
+            font-size:40px ;
         }
 
 
