@@ -17,7 +17,7 @@ height:80px;
     }
     .layer li {
     padding-right: 40px;
-    font-size: 50px;
+    font-size: 30px;
     
     }
     .layer a{
@@ -26,7 +26,7 @@ height:80px;
     }
     .layer a:hover{
         color: yellow;
-        font-size:70px ;
+        font-size:40px ;
     }
     .join{
     color: bisque;
