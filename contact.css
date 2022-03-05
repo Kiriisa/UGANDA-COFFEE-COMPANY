@@ -1,0 +1,88 @@
+.first-div{
+                               
+     
+    background-color: rgba(53, 2, 2, 0.986);
+    width: 110%;
+    height:80px;
+    }
+    
+    .layer {
+        display: flex;
+        list-style-type: none;
+        justify-content: left;
+        padding:18px;
+        align-items: center;
+        
+        }
+        .layer li {
+        padding-right: 30px;
+        font-size: 60px;
+        
+        }
+        .layer a{
+            color: antiquewhite;
+            text-decoration: none;
+        }
+        .layer a:hover{
+            color: yellow;
+            font-size:70px ;
+        }
+ 
+ 
+ 
+ 
+ .form {
+    padding: 15px;
+    border-color: rgb(249, 253, 255);
+    color: rgb(255, 255, 255);
+    font-family: Calibri;
+    font-size: 27px; 
+    background-color: inherit;
+    border-radius: 0px;
+    margin-left: 15px;
+    
+    text-decoration: none;
+ }
+.form {
+    height:100% ;
+  width: 100%;
+  padding: 15px 180px;
+  margin: 2px 0;
+  display: inline-block;
+  border: none;
+  border-radius: none;
+  box-sizing: border-box;
+  position: absolute;
+  top:5px;
+}
+  
+
+#email{
+    width: 390px;
+    height: 40px;
+}
+#psw{
+        width: 390px;
+        height: 40px;
+    }
+
+.form .loginbtn{
+
+    width: 10%;
+    background-color: #17df10;
+    color: white;
+    padding: 15px 16px;
+    margin: 18px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  
+}
+.form .a{
+    text-decoration: none;
+    text-decoration-color: rgb(94, 1, 1);
+    color: rgb(240, 240, 16);
+}
+.p{
+    size: 22px;
+}
